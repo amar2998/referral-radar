@@ -1,0 +1,16 @@
+{
+  "profile": {
+    "name": "Amar Sonu Nath",
+    "currentRole": "Associate Software Engineer",
+    "yearsExperience": 1,
+    "skills": ["Java", "Spring Boot", "AWS", "TypeScript", "PostgreSQL"],
+    "location": "Kolkata",
+    "searchRegion": "India",
+    "targetRole": "Backend Engineer"
+  },
+  "settings": {
+    "monthlyNoteBudget": 5,
+    "noteMaxChars": 200,
+    "followUpAfterDays": 7
+  }
+}

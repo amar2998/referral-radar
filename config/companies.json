@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Razorpay",
+    "priority": 1
+  },
+  {
+    "name": "LTM",
+    "priority": 1
+  },
+  {
+    "name": "Hyland",
+    "priority": 1
+  },
+  {
+    "name": "infosys",
+    "priority": "2"
+  },
+  {
+    "name": "Freshworks",
+    "priority": 2,
+    "aliases": [
+      "Freshworks Inc"
+    ]
+  },
+  {
+    "name": "Zoho",
+    "priority": 2,
+    "aliases": [
+      "Zoho Corporation"
+    ]
+  },
+  {
+    "name": "Swiggy",
+    "priority": 3
+  }
+]

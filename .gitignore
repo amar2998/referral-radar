@@ -1,0 +1,6 @@
+node_modules
+dist
+data/Connections.csv
+data/tracker.json
+output
+data

@@ -1,0 +1,17 @@
+{
+  "name": "linkedin-recruiter-finder",
+  "version": "1.0.0",
+  "description": "Match your LinkedIn connections export to target companies, find recruiters/referrals, draft messages, and track outreach.",
+  "type": "module",
+  "scripts": {
+    "scan": "tsx src/index.ts scan",
+    "draft": "tsx src/index.ts draft",
+    "track": "tsx src/index.ts track",
+    "check": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.5",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  }
+}
